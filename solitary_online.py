@@ -133,6 +133,7 @@ Oponente HP = \033[1;31m{}\033[m / Ataque = \033[1;31m{}\033[m ({})
 			print("O adversário está em posição de \033[1;34mdefesa!\033[m")
 
 		if comando == "3" and countatk >= 1: #Melhorar ataque
+			print("Você melhorou o \033[33mataque!\033[m")
 			atk += 2
 			countatk -= 1
 		if oponente == "3" and opcountatk >= 1: #Se o oponente melhorar o ataque
