@@ -4,6 +4,7 @@ import threading
 
 quotes = ["A fantasia é um jeito fácil de dar sentido ao mundo. Para dar escape à nossa dura realidade.",
 "Ele desapareceu e agora somos nós dois.",
+"Exciting times in the world.",
 "Melhor um mal conhecido do que um desconhecido.",
 "Nós destruímos partes nossas todos os dias. Nós editamos nossas verrugas, modificamos as partes que as pessoas odeiam.",
 "Todos vivemos nas paranoias uns dos outros.",
