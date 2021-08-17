@@ -1,0 +1,8 @@
+{
+  "name": "solitaryon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marssaljr/solitaryon.git",
+  "author": "Marçal Junior <marssaljr@gmail.com>",
+  "license": "MIT"
+}
