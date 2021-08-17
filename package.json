@@ -2,7 +2,7 @@
   "name": "solitaryon",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/marssaljr/solitaryon.git",
-  "author": "Marçal Junior <marssaljr@gmail.com>",
+  "repository": "https://github.com/rcovery/solitaryon.git",
+  "author": "Ryan Pereira <ryanczpereira@gmail.com>",
   "license": "MIT"
 }
