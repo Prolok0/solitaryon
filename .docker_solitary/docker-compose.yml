@@ -5,7 +5,7 @@ services:
     environment:
       - TERM=xterm
     ports:
-      - "80:3000"
+      - "8080:3000"
     volumes:
       - ..:/home/solitaryon
     container_name: solitary
