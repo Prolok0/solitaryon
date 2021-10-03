@@ -8,3 +8,4 @@ services:
       - "80:3000"
     volumes:
       - ..:/home/solitaryon
+    container_name: solitary
