@@ -12,6 +12,10 @@ export default async (req: NextApiRequest, res: NextApiResponseServerIO) => {
       path: "/api/socket",
     });
 
+    io.on('connection', socket => {
+      console.log("New connection! " + socket.id);
+    })
+
     res.socket.server.io = io;
   }
   res.end();
