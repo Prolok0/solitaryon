@@ -13,7 +13,7 @@ export default async (req: NextApiRequest, res: NextApiResponseServerIO) => {
     });
 
     io.on('connection', socket => {
-      console.log("New connection! " + socket.id);
+      console.log("[!] connection " + socket.id);
     })
 
     res.socket.server.io = io;
