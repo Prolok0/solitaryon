@@ -1,0 +1,11 @@
+version: "3.5"
+services:
+  app:
+    build: .
+    environment:
+      - TERM=xterm
+    ports:
+      - "8080:3000"
+    volumes:
+      - ..:/home/solitaryon
+    container_name: solitary
