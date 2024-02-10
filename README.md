@@ -11,3 +11,6 @@ Um jogo de batalha online, modo texto, originamente feito em Python.
 # TODO
 
 - Reorganize the code
+- Create a server class
+- Create a client class
+- Terminal with curses
